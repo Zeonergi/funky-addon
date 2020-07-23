@@ -1,0 +1,6 @@
+## Interface: 50001
+## Title: AAA-Funky
+## Author: Kotkan poikii
+## Version: 0.1
+Funky.xml
+main.lua
